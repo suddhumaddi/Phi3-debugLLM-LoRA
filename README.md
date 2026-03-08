@@ -49,6 +49,24 @@ This repository provides a **reproducible implementation** for training LLMs on 
 
 ---
 
+## Architecture
+
+The following diagram illustrates the pipeline used for training and evaluating the bug-fixing LLM.
+
+<p align="center">
+<img src="assets/architecture_pipeline.png" width="800">
+</p>
+
+The pipeline includes:
+
+• Dataset preparation  
+• Instruction formatting  
+• LoRA fine-tuning of Phi-3 Mini  
+• Model evaluation  
+• Bug-fix inference generation
+
+---
+
 # Dataset
 
 This project uses the **MBPP (Mostly Basic Python Problems)** dataset available through the HuggingFace Datasets library.
@@ -114,6 +132,11 @@ Benefits:
 
 ---
 
+## Model Availability
+
+The fine-tuned LoRA adapter is available on HuggingFace.
+---
+
 # Fine-Tuning
 
 The model was fine-tuned using the **HuggingFace Transformers ecosystem**.
@@ -141,6 +164,23 @@ Training configuration:
 | Hardware | NVIDIA Tesla T4 GPU |
 
 Training was completed in approximately **7 minutes** using GPU acceleration.
+
+---
+
+## Experiment Tracking
+
+Training experiments were tracked using **Weights & Biases**.
+
+W&B Dashboard:
+
+https://wandb.ai/suddhumaddi-woxsen-university/huggingface
+
+Tracked metrics include:
+
+• training loss  
+• training steps  
+• runtime statistics  
+• GPU utilization
 
 ---
 
