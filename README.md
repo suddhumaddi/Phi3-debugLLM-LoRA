@@ -12,6 +12,8 @@ DebugGPT — Automated Python Bug Fixing using Fine-Tuned LLMs
 Build intelligent AI systems that detect, analyze, and repair buggy Python code using fine-tuned Large Language Models.
 </p>
 
+<p align="center">
+  
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
 ![LLM](https://img.shields.io/badge/Model-Phi--3%20Mini-green)
