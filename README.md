@@ -1,20 +1,16 @@
-<p align="center">
+<h1 align="center">CodeRepair-LLM</h1>
 
-# CodeRepair-LLM
-### DebugGPT — Automated Python Bug Fixing using Fine-Tuned LLMs
-
-</p>
-
+<h3 align="center">
+DebugGPT — Automated Python Bug Fixing using Fine-Tuned LLMs
+</h3>
 
 <p align="center">
 <i>A Decentralized Framework for Autonomous Agent Collaboration</i>
 </p>
 
 <p align="center">
-Build and connect intelligent AI systems that detect, analyze, and repair buggy Python code using fine-tuned Large Language Models.
+Build intelligent AI systems that detect, analyze, and repair buggy Python code using fine-tuned Large Language Models.
 </p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
