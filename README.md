@@ -1,5 +1,10 @@
+<p align="center">
+
 # CodeRepair-LLM
 ### DebugGPT — Automated Python Bug Fixing using Fine-Tuned LLMs
+
+</p>
+
 
 <p align="center">
 <i>A Decentralized Framework for Autonomous Agent Collaboration</i>
