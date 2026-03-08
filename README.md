@@ -13,24 +13,20 @@ Build intelligent AI systems that detect, analyze, and repair buggy Python code 
 </p>
 
 <p align="center">
-  
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
-![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
-![LLM](https://img.shields.io/badge/Model-Phi--3%20Mini-green)
-![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-LoRA-orange)
-![GPU](https://img.shields.io/badge/GPU-Tesla%20T4-red)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
+<img src="https://img.shields.io/badge/python-3.10+-blue">
+<img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow">
+<img src="https://img.shields.io/badge/Model-Phi--3%20Mini-green">
+<img src="https://img.shields.io/badge/Fine--Tuning-LoRA-orange">
+<img src="https://img.shields.io/badge/GPU-Tesla%20T4-red">
+<img src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
 <p align="center">
-
 <a href="#installation">Installation</a> •
 <a href="#usage">Usage</a> •
 <a href="#results">Results</a> •
 <a href="#repository-structure">Repository Structure</a> •
 <a href="#license">License</a>
-
 </p>
 
 ---
